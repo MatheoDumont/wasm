@@ -37,4 +37,6 @@ cd www
 npm install
 ``` 
 
+Then proceed with the tutorial by adding a dependency to our wasm-test project and updating the index.js to import this dependency. Finally `npm install`.
+
   
