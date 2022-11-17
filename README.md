@@ -29,3 +29,12 @@ cargo generate --git https://github.com/rustwasm/wasm-pack-template
 cd name-of-project
 wasm-pack build
 ```
+   
+putting it into a web page and install dependencies
+```
+npm init wasm-app www
+cd www
+npm install
+``` 
+
+  
