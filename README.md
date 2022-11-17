@@ -41,5 +41,7 @@ Then proceed with the tutorial by adding a dependency to our wasm-test project a
 
 # If error
 
-if error when running `npm run start`, look into [this](https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported) :
-
+if error when running `npm run start`, look into [this](https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported), or just try this:  
+```
+export NODE_OPTIONS=--openssl-legacy-provider
+```
