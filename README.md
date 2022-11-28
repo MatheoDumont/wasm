@@ -50,4 +50,3 @@ export NODE_OPTIONS=--openssl-legacy-provider
 ```
 root@BA00058:/mnt/c/Users/mdumont/.perso/wasm-test/www# npm link --save ../pkg
 ``` 
-
