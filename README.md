@@ -19,7 +19,7 @@ cargo install cargo-generate
 Node and update npm
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
-nvp install node
+nvm install node
 npm install npm@latest -g
 ```
   
